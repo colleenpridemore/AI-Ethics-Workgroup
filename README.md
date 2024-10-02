@@ -1,5 +1,4 @@
-# AI-Ethics-Workgroup Demo Repo
-(SingularityNET Ambassador Program)
-*For use with GitHub Project Board Demo
+# AI-Ethics-Workgroup
+Repository for the AI Ethics workgroup in the SingularityNET Ambassador Program
 
-Class is scheduled for October 7, 2024 1300 UTC
+[Link](www.test.com)
